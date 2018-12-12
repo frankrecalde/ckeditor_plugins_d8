@@ -1,0 +1,9 @@
+name: CKEditor Plugins
+type: module
+description: "Custom plugins to add functionality to CKEditor"
+package: Custom
+core: 8.x
+libraries:
+  - ckeditor_plugins/ckeditor_plugins_style
+dependencies:
+  - ckeditor

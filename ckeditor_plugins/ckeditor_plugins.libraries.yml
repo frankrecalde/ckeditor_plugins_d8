@@ -1,0 +1,11 @@
+ckeditor_plugins_style:
+  version: 1.x
+  css:
+    theme:
+      css/plugins/responsivetabs/ckeditor-responsive-tabs.css: {}
+  js:
+    js/plugins/responsivetabs/js/responsive-tabs.js: {}
+    js/plugins/expandcollapse/js/expandcollapse.js: {}
+  dependencies:
+    - core/jquery
+    - core/jquery.once
